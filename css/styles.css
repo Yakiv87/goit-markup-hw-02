@@ -53,3 +53,7 @@ button {
   line-height: 1.5;
   color: #434455;
 }
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
