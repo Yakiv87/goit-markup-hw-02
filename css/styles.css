@@ -44,6 +44,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 .phone-number {
   font-family: 'Roboto', sans-serif;
@@ -52,6 +53,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   color: #434455;
+  letter-spacing: 0.02em;
 }
 .menu-link:hover,
 .menu-link:focus {
