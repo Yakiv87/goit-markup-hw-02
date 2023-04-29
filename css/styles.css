@@ -69,7 +69,7 @@ button {
   color: #404bbf;
 }
 .hero-text {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -77,4 +77,18 @@ button {
   letter-spacing: 0.02em;
   color: #ffffff;
   background: #2e2f42;
+}
+.order-btn {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background: #404bbf;
+}
+.order-btn:hover,
+.order-btn:focus {
+  background: #4d5ae5;
 }
