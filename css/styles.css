@@ -68,3 +68,12 @@ button {
 .phone-number:focus {
   color: #404bbf;
 }
+.hero-text {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
