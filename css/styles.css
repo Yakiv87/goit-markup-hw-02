@@ -102,7 +102,7 @@ button {
   color: #2e2f42;
 }
 .feature-description {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
