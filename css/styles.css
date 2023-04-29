@@ -57,3 +57,11 @@ button {
 .menu-link:focus {
   color: #404bbf;
 }
+.mail:hover,
+.mail:focus {
+  color: #404bbf;
+}
+.phone-number:hover,
+.phone-number:focus {
+  color: #404bbf;
+}
