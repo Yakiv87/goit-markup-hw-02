@@ -1,3 +1,10 @@
+.body {
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  color: #2e2f42;
+  background-color: #ffffff;
+}
+
 .list {
   list-style: none;
 }
