@@ -3,6 +3,7 @@
   font-size: 16px;
   color: #2e2f42;
   background-color: #ffffff;
+  font-style: normal;
 }
 
 .list {
@@ -28,4 +29,27 @@ button {
   font-size: 18px;
   line-height: 1.17;
   color: #2e2f42;
+}
+.menu-link {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+}
+.mail {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+.phone-number {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
 }
