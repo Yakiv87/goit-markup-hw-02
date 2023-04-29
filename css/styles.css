@@ -22,5 +22,10 @@ button {
   color: #4d5ae5;
 }
 .span-logo {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
   color: #2e2f42;
 }
