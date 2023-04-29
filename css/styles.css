@@ -1,9 +1,12 @@
 :root {
   --primary-background-color: #ffffff;
   --primary-text-color: #434455;
+  --secondary-text-color: #2e2f42;
 }
 .body {
   font-family: 'Roboto', sans-serif;
+  color: var(--primary-text-color);
+  background-color: var(--primary-background-color);
 }
 
 .list {
