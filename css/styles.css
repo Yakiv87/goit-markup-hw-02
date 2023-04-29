@@ -15,6 +15,10 @@ button {
   cursor: pointer;
 }
 .span-web {
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
   color: #4d5ae5;
 }
 .span-logo {
