@@ -86,9 +86,9 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background: #404bbf;
+  background: #4d5ae5;
 }
 .order-btn:hover,
 .order-btn:focus {
-  background: #4d5ae5;
+  background: #404bbf;
 }
