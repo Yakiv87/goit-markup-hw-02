@@ -14,3 +14,9 @@
 button {
   cursor: pointer;
 }
+.logo {
+  color: #4d5ae5;
+}
+.span-logo {
+  color: #2e2f42;
+}
