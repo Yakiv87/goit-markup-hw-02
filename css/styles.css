@@ -78,6 +78,7 @@ button {
   color: #ffffff;
   background: #2e2f42;
 }
+/* btn */
 .order-btn {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -92,6 +93,7 @@ button {
 .order-btn:focus {
   background: #404bbf;
 }
+/*section 2*/
 .feature {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -110,3 +112,4 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/*what are we doing*/
