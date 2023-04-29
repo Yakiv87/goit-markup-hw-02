@@ -20,6 +20,8 @@ button {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #4d5ae5;
 }
 .span-logo {
@@ -28,6 +30,8 @@ button {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
   color: #2e2f42;
 }
 .menu-link {
@@ -122,10 +126,11 @@ button {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+/*our team*/
+
 .team-list {
   background: #f4f4fd;
 }
-/*our team*/
 .ourteam {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
