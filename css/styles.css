@@ -3,6 +3,7 @@
   --primary-text-color: #434455;
   --secondary-background-color: #2e2f42;
   --background-color-btn: #f4f4fd;
+  --second-color-btn: #4d5ae5;
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -48,6 +49,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--secondary-background-color);
 }
 .address-item {
   font-family: 'Roboto', sans-serif;
@@ -195,7 +197,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  color: var(--background-color-btn);
+  color: var(--second-color-btn);
 }
 .btn-filter:hover,
 .btn-filter:focus {
