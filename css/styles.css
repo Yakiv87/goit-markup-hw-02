@@ -1,7 +1,7 @@
 :root {
   --primary-background-color: #ffffff;
   --primary-text-color: #434455;
-  --secondary-text-color: #2e2f42;
+  --secondary-background-color: #2e2f42;
 }
 .body {
   font-family: 'Roboto', sans-serif;
@@ -35,7 +35,7 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: var(--secondary-text-color);
+  color: var(--secondary-background-color);
 }
 .menu-link {
   font-family: 'Roboto', sans-serif;
@@ -76,7 +76,7 @@ button {
   color: #404bbf;
 }
 .hero {
-  color: var(--secondary-text-color);
+  background: #2e2f42;
 }
 
 .hero-text {
