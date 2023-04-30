@@ -196,12 +196,13 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: var(--background-color-btn);
+  background-color: var(--background-color-btn);
   color: var(--second-color-btn);
 }
 .btn-filter:hover,
 .btn-filter:focus {
   color: #ffffff;
+  background-color: #404bbf;
 }
 .project-card {
   font-family: 'Roboto', sans-serif;
