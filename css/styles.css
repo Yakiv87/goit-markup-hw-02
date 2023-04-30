@@ -5,8 +5,8 @@
 }
 .body {
   font-family: 'Roboto', sans-serif;
-  color: var(--primary-text-color);
-  background-color: var(--primary-background-color);
+  color: #434455;
+  background-color: #ffffff;
 }
 
 .list {
