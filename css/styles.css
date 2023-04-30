@@ -84,10 +84,11 @@ button {
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.1;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: var(--primary-background-color);
   background: #2e2f42;
+  text-align: center;
 }
 /* btn */
 .order-btn {
