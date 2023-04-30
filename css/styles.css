@@ -2,6 +2,7 @@
   --primary-background-color: #ffffff;
   --primary-text-color: #434455;
   --secondary-background-color: #2e2f42;
+  --background-color-btn: #f4f4fd;
 }
 .body {
   font-family: 'Roboto', sans-serif;
@@ -194,7 +195,7 @@ button {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  background: #f4f4fd;
+  color: var(--background-color-btn);
 }
 .btn-filter:hover,
 .btn-filter:focus {
