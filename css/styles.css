@@ -35,7 +35,7 @@ button {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #2e2f42;
+  color: var(--secondary-text-color);
 }
 .menu-link {
   font-family: 'Roboto', sans-serif;
@@ -75,6 +75,10 @@ button {
 .phone-number:focus {
   color: #404bbf;
 }
+.hero {
+  color: var(--secondary-text-color);
+}
+
 .hero-text {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
